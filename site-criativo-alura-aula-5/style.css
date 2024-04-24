@@ -63,3 +63,14 @@ body {
     padding: 16px 0;
 }
 
+.estudante-todos{
+    display: grid;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
